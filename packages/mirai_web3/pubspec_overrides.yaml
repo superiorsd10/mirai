@@ -3,4 +3,4 @@ dependency_overrides:
   mirai:
     path: ../../packages/mirai
   mirai_framework:
-    path: ../../packages/mirai_framework
+    path: ../mirai_framework

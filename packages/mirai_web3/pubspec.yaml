@@ -2,7 +2,6 @@ name: mirai_web3
 description: A web3 package for Mirai. A wrapper of `web3modal_flutter` package for Mirai.
 version: 0.0.1
 homepage: https://github.com/Securrency-OSS/mirai/tree/main/packages/mirai_web3
-publish_to: none
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
